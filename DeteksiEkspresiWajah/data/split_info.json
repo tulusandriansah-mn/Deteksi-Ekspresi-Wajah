@@ -1,0 +1,10 @@
+{
+  "seed": 42,
+  "val_fraction": 0.1,
+  "hapus_bocor": true,
+  "mean": 0.504349941064255,
+  "std": 0.2547192798754395,
+  "n_train": 24220,
+  "n_val": 2692,
+  "n_test": 7178
+}
