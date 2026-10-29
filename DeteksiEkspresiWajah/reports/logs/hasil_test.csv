@@ -1,3 +1,0 @@
-,parameter,epoch terbaik,waktu latih (detik),val macro-F1,test loss,test akurasi,test macro-F1,test weighted-F1
-MLP,1313287,20.0,47.2,0.3693,1.565,0.4207,0.374,0.4131
-CNN_sederhana,1468135,11.0,122.8,0.5088,1.8507,0.5529,0.5211,0.5529
